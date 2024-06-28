@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi there, I'm Haojie Tang!
+
+📌**I am a PhD student at Sichuan University, College of Computer Science, Laboratory of Aerial Information Probe and Intelligent Perception.**
+
+
 
 <!--
 **Haojie-Tang/Haojie-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
