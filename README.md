@@ -2,7 +2,7 @@
 
 ### 😁 Now, I am a PhD student at Sichuan University, College of Computer Science.
 
-#### 🏆 Awards Received (partial)
+#### 🏆 Awards Received (partial):
 - **National scholarship for Postgraduates (2023)** / National Encouragement scholarship (2018, 2019)
 - Excellent Student Cadre
 - Outstanding Graduates / Outstanding Volunteer
