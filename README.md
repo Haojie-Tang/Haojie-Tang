@@ -4,9 +4,11 @@
 
 #### 🏆 Awards Received (partial):
 - **National scholarship for Postgraduates (2023)** / National Encouragement scholarship (2018, 2019)
-- Excellent Student Cadre
-- Outstanding Graduates / Outstanding Volunteer
-- *Certificate Authority Cup* International Mathematical Contest in Modeling Certificate of Achievement 【🥇Meritorious】
+- Excellent Student Cadre (2018, 2019)
+- Outstanding Graduates (2020, 2024) / Outstanding Volunteer (2022)
+- First Class Scholarship for Graduate Student Achievement (2023)
+- 2021 *Certificate Authority Cup* International Mathematical Contest in Modeling Certificate of Achievement (🥇Meritorious)
+- 2022 State Grid Ltd. Artificial Intelligence Competition - Safety and Supervision Topics (🥉Third prize, 4/500+)
 - ...
 
 #### 🔭 Direction of the research:
