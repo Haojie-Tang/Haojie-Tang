@@ -1,4 +1,4 @@
-## 📢👋 Hi there, I'm Haojie Tang!
+## 📢👋 Hi there, I'm Haojie Tang❗
 
 ### 😁 I am a PhD student at Sichuan University, College of Computer Science.
 
