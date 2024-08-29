@@ -1,12 +1,10 @@
 ## 📢👋 Hi there, I'm [Haojie Tang](https://scholar.google.com/citations?hl=zh-CN&user=VaFAzAIAAAAJ)❗
 
-### 😁 Now, I am a PhD student at Sichuan University, College of Computer Science.
+### 😁 Now, I am a Ph.D student at Sichuan University, College of Computer Science.
 
 #### 🏆 Awards Received (partial):
 - **National scholarship for Postgraduates (2023)** / National Encouragement scholarship (2018, 2019)
-- Excellent Student Cadre (2018, 2019)
-- Outstanding Graduates (2020, 2024) / Outstanding Volunteer (2022)
-- First Class Scholarship for Graduate Student Achievement (2023)
+- Outstanding Graduates (2020, 2024)
 - 2021 *Certificate Authority Cup* International Mathematical Contest in Modeling Certificate of Achievement (🥇Meritorious)
 - 2022 State Grid Ltd. Artificial Intelligence Competition - Safety and Supervision Topics (🥉Third prize, 4/500+)
 - ...
@@ -14,7 +12,6 @@
 #### 🔭 Direction of the research:
 - Image Fusion
 - Computational Imaging
-- Non-line-of-sight Imaging
 
 #### 🚩 Publications:
 
