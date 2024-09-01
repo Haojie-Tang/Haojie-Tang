@@ -9,8 +9,9 @@
 - 2022 State Grid Ltd. Artificial Intelligence Competition - Safety and Supervision Topics (🥉Third prize, 4/500+)
 - ...
 
-#### 🔭 Direction of the research:
+#### 🎓 Direction of the research:
 - Image Fusion
+- Feature Matching
 - Computational Imaging
 
 #### 🚩 Publications:
@@ -28,7 +29,7 @@
 11. ...
 
 #### 📌 Note:
-🤪 If you want to have academic communications or collaborations, you can contact me **without hesitation** via this email. (📧: tanghaojie111@163.com)
+🤪 If you want to have academic communications or collaborations, you can contact me ***without hesitation*** via this email. (📧: tanghaojie111@163.com)
 
 <!--
 **Haojie-Tang/Haojie-Tang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
