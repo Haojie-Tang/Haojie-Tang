@@ -12,7 +12,6 @@
 #### 🎓 Direction of the research:
 - Image Fusion
 - Feature Matching
-- Computational Imaging
 
 #### 🚩 Publications:
 
