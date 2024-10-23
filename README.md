@@ -22,8 +22,7 @@
 5. Y. Qian, G. Liu, ***Haojie Tang***, M. Xing, and R. Chang, "BTSFusion: Fusion of infrared and visible image via a mechanism of balancing texture and salience," Optics and Lasers in Engineering, vol. 173, pp. 107925, 2024.【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0143816623004542)】【[Code](https://github.com/Haojie-Tang/BTSFusion)】
 6. M. Xing, G. Liu, ***Haojie Tang***, Y. Qian, and J. Zhang, "CFNet: An infrared and visible image compression fusion network," Pattern Recognition, vol.156, pp. 110774, 2024. 【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005259)】【[Code](https://github.com/Xiaoxing0503/CFNet)】
 7. M. Xing, G. Liu, ***Haojie Tang***, Y. Qian, and J. Zhang, "Multi-level adaptive perception guidance based infrared and visible image fusion," Optics and Lasers in Engineering, vol. 171, pp. 107804, 2023.【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0143816623003330)】【[Code](https://github.com/Xiaoxing0503/MAPFusion)】
-8. J. Xiong, G. Liu, ***Haojie Tang***, X. Gu, and D. P. Bavirisetti, "SeGFusion: Semantic Segmentation Based Infrared and Visible Image Fusion Network", Infrared Physics and Technology, vol. 140, pp. 105344, 2024. 【[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449524002287)】
-9. ...
+8. ...
 
 #### 📌 Note:
 🤪 If you want to have academic communications or collaborations, you can contact me ***without hesitation*** via this email. (📧: tanghaojie111@163.com)
