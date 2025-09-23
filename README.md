@@ -11,7 +11,7 @@
 
 #### 🎓 Direction of the research:
 - Image Fusion
-- Feature Matching
+- Spectral Super-Resolution
 
 #### 🚩 Publications:
 
