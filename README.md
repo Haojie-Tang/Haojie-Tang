@@ -10,8 +10,9 @@
 - ...
 
 #### 🎓 Direction of the research:
-- Image Fusion
+- Hyperspectral Reconstruction
 - Spectral Super-Resolution
+- Image Fusion
 
 #### 🚩 Publications:
 
