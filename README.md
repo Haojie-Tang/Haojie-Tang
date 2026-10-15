@@ -11,7 +11,7 @@
 
 #### 🎓 Direction of the research:
 - Hyperspectral Reconstruction
-- Spectral Super-Resolution
+- Hyperspectral Super-Resolution
 - Image Fusion
 
 #### 🚩 Publications:
